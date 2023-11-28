@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This repository contains the code needed to reproduce the simulations presented in the paper titled _Positive Competitive Networks for Sparse Reconstruction_ by Veronica Centorrino, Anand Gokhale, Alexander Davydov, Prof. Giovanni Russo, and Prof. Francesco Bullo.
+This repository contains the code needed to reproduce the simulations presented in the paper titled _Positive Competitive Networks for Sparse Reconstruction_ by Veronica Centorrino, Anand Gokhale, Alexander Davydov, Prof. Giovanni Russo, and Prof. Francesco Bullo ([arXiv](https://arxiv.org/abs/2311.03821)).
 
 The repository contains both the dataset and the necessary code to reproduce the figures featured in the Simulations Section of the manuscript, namely, Figures 5, 6, and 7.
 
